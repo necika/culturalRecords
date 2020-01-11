@@ -1,0 +1,677 @@
+C:\Users\Nemanja\Desktop\Neco sve\2.semestar\HCI\Projekat\Workspace\HciProjekat\HciProjekat\bin\Debug\HciProjekat.exe.config
+C:\Users\Nemanja\Desktop\Neco sve\2.semestar\HCI\Projekat\Workspace\HciProjekat\HciProjekat\bin\Debug\HciProjekat.exe
+C:\Users\Nemanja\Desktop\Neco sve\2.semestar\HCI\Projekat\Workspace\HciProjekat\HciProjekat\bin\Debug\HciProjekat.pdb
+C:\Users\Nemanja\Desktop\Neco sve\2.semestar\HCI\Projekat\Workspace\HciProjekat\HciProjekat\obj\Debug\HciProjekat.csprojAssemblyReference.cache
+C:\Users\Nemanja\Desktop\Neco sve\2.semestar\HCI\Projekat\Workspace\HciProjekat\HciProjekat\obj\Debug\MainWindow.g.cs
+C:\Users\Nemanja\Desktop\Neco sve\2.semestar\HCI\Projekat\Workspace\HciProjekat\HciProjekat\obj\Debug\App.g.cs
+C:\Users\Nemanja\Desktop\Neco sve\2.semestar\HCI\Projekat\Workspace\HciProjekat\HciProjekat\obj\Debug\HciProjekat_MarkupCompile.cache
+C:\Users\Nemanja\Desktop\Neco sve\2.semestar\HCI\Projekat\Workspace\HciProjekat\HciProjekat\obj\Debug\HciProjekat_MarkupCompile.lref
+C:\Users\Nemanja\Desktop\Neco sve\2.semestar\HCI\Projekat\Workspace\HciProjekat\HciProjekat\obj\Debug\MainWindow.baml
+C:\Users\Nemanja\Desktop\Neco sve\2.semestar\HCI\Projekat\Workspace\HciProjekat\HciProjekat\obj\Debug\HciProjekat.g.resources
+C:\Users\Nemanja\Desktop\Neco sve\2.semestar\HCI\Projekat\Workspace\HciProjekat\HciProjekat\obj\Debug\HciProjekat.Properties.Resources.resources
+C:\Users\Nemanja\Desktop\Neco sve\2.semestar\HCI\Projekat\Workspace\HciProjekat\HciProjekat\obj\Debug\HciProjekat.csproj.GenerateResource.cache
+C:\Users\Nemanja\Desktop\Neco sve\2.semestar\HCI\Projekat\Workspace\HciProjekat\HciProjekat\obj\Debug\HciProjekat.csproj.CoreCompileInputs.cache
+C:\Users\Nemanja\Desktop\Neco sve\2.semestar\HCI\Projekat\Workspace\HciProjekat\HciProjekat\obj\Debug\HciProjekat.exe
+C:\Users\Nemanja\Desktop\Neco sve\2.semestar\HCI\Projekat\Workspace\HciProjekat\HciProjekat\obj\Debug\HciProjekat.pdb
+C:\Users\Nemanja\Desktop\Neco sve\2.semestar\HCI\Projekat\Workspace\HciProjekat\HciProjekat\obj\Debug\DodavanjeSpomenika.g.cs
+C:\Users\Nemanja\Desktop\Neco sve\2.semestar\HCI\Projekat\Workspace\HciProjekat\HciProjekat\obj\Debug\DodavanjeSpomenika.baml
+C:\Users\Nemanja\Desktop\Neco sve\2.semestar\HCI\Projekat\Workspace\HciProjekat\HciProjekat\obj\Debug\TableExample.baml
+C:\Users\Nemanja\Desktop\Neco sve\2.semestar\HCI\Projekat\Workspace\HciProjekat\HciProjekat\obj\Debug\TableExample.g.cs
+C:\Users\Nemanja\Desktop\Neco sve\2.semestar\HCI\Projekat\Workspace\HciProjekat\HciProjekat\obj\Debug\DodavanjeEtiketa.g.cs
+C:\Users\Nemanja\Desktop\Neco sve\2.semestar\HCI\Projekat\Workspace\HciProjekat\HciProjekat\obj\Debug\PrikazEtiketa.g.cs
+C:\Users\Nemanja\Desktop\Neco sve\2.semestar\HCI\Projekat\Workspace\HciProjekat\HciProjekat\obj\Debug\DodavanjeEtiketa.baml
+C:\Users\Nemanja\Desktop\Neco sve\2.semestar\HCI\Projekat\Workspace\HciProjekat\HciProjekat\obj\Debug\PrikazEtiketa.baml
+C:\Users\Nemanja\Desktop\Neco sve\2.semestar\HCI\Projekat\Workspace\HciProjekat\HciProjekat\obj\Debug\DodavanjeTipaSpomenika.g.cs
+C:\Users\Nemanja\Desktop\Neco sve\2.semestar\HCI\Projekat\Workspace\HciProjekat\HciProjekat\obj\Debug\PrikazTipaSpomenika.g.cs
+C:\Users\Nemanja\Desktop\Neco sve\2.semestar\HCI\Projekat\Workspace\HciProjekat\HciProjekat\obj\Debug\DodavanjeTipaSpomenika.baml
+C:\Users\Nemanja\Desktop\Neco sve\2.semestar\HCI\Projekat\Workspace\HciProjekat\HciProjekat\obj\Debug\PrikazTipaSpomenika.baml
+E:\HciProjekat\HciProjekat\bin\Debug\HciProjekat.exe.config
+E:\HciProjekat\HciProjekat\obj\Debug\HciProjekat.exe
+E:\HciProjekat\HciProjekat\obj\Debug\HciProjekat.pdb
+E:\HciProjekat\HciProjekat\bin\Debug\HciProjekat.exe
+E:\HciProjekat\HciProjekat\bin\Debug\HciProjekat.pdb
+E:\HciProjekat\HciProjekat\obj\Debug\HciProjekat.csprojResolveAssemblyReference.cache
+E:\HciProjekat\HciProjekat\obj\Debug\DodavanjeEtiketa.g.cs
+E:\HciProjekat\HciProjekat\obj\Debug\DodavanjeSpomenika.g.cs
+E:\HciProjekat\HciProjekat\obj\Debug\DodavanjeTipaSpomenika.g.cs
+E:\HciProjekat\HciProjekat\obj\Debug\MainWindow.g.cs
+E:\HciProjekat\HciProjekat\obj\Debug\PrikazEtiketa.g.cs
+E:\HciProjekat\HciProjekat\obj\Debug\PrikazTipaSpomenika.g.cs
+E:\HciProjekat\HciProjekat\obj\Debug\TableExample.g.cs
+E:\HciProjekat\HciProjekat\obj\Debug\App.g.cs
+E:\HciProjekat\HciProjekat\obj\Debug\HciProjekat_MarkupCompile.cache
+E:\HciProjekat\HciProjekat\obj\Debug\HciProjekat_MarkupCompile.lref
+E:\HciProjekat\HciProjekat\obj\Debug\DodavanjeEtiketa.baml
+E:\HciProjekat\HciProjekat\obj\Debug\DodavanjeSpomenika.baml
+E:\HciProjekat\HciProjekat\obj\Debug\DodavanjeTipaSpomenika.baml
+E:\HciProjekat\HciProjekat\obj\Debug\MainWindow.baml
+E:\HciProjekat\HciProjekat\obj\Debug\PrikazEtiketa.baml
+E:\HciProjekat\HciProjekat\obj\Debug\PrikazTipaSpomenika.baml
+E:\HciProjekat\HciProjekat\obj\Debug\TableExample.baml
+E:\HciProjekat\HciProjekat\obj\Debug\HciProjekat.g.resources
+E:\HciProjekat\HciProjekat\obj\Debug\HciProjekat.Properties.Resources.resources
+E:\HciProjekat\HciProjekat\obj\Debug\HciProjekat.csproj.GenerateResource.Cache
+C:\Users\Nemanja\Desktop\HciProjekat\HciProjekat\bin\Debug\HciProjekat.exe.config
+C:\Users\Nemanja\Desktop\HciProjekat\HciProjekat\bin\Debug\HciProjekat.exe
+C:\Users\Nemanja\Desktop\HciProjekat\HciProjekat\bin\Debug\HciProjekat.pdb
+C:\Users\Nemanja\Desktop\HciProjekat\HciProjekat\obj\Debug\HciProjekat.csprojAssemblyReference.cache
+C:\Users\Nemanja\Desktop\HciProjekat\HciProjekat\obj\Debug\DodavanjeEtiketa.g.cs
+C:\Users\Nemanja\Desktop\HciProjekat\HciProjekat\obj\Debug\DodavanjeSpomenika.g.cs
+C:\Users\Nemanja\Desktop\HciProjekat\HciProjekat\obj\Debug\DodavanjeTipaSpomenika.g.cs
+C:\Users\Nemanja\Desktop\HciProjekat\HciProjekat\obj\Debug\MainWindow.g.cs
+C:\Users\Nemanja\Desktop\HciProjekat\HciProjekat\obj\Debug\PrikazEtiketa.g.cs
+C:\Users\Nemanja\Desktop\HciProjekat\HciProjekat\obj\Debug\PrikazTipaSpomenika.g.cs
+C:\Users\Nemanja\Desktop\HciProjekat\HciProjekat\obj\Debug\TableExample.g.cs
+C:\Users\Nemanja\Desktop\HciProjekat\HciProjekat\obj\Debug\App.g.cs
+C:\Users\Nemanja\Desktop\HciProjekat\HciProjekat\obj\Debug\HciProjekat_MarkupCompile.cache
+C:\Users\Nemanja\Desktop\HciProjekat\HciProjekat\obj\Debug\HciProjekat_MarkupCompile.lref
+C:\Users\Nemanja\Desktop\HciProjekat\HciProjekat\obj\Debug\DodavanjeEtiketa.baml
+C:\Users\Nemanja\Desktop\HciProjekat\HciProjekat\obj\Debug\DodavanjeSpomenika.baml
+C:\Users\Nemanja\Desktop\HciProjekat\HciProjekat\obj\Debug\DodavanjeTipaSpomenika.baml
+C:\Users\Nemanja\Desktop\HciProjekat\HciProjekat\obj\Debug\MainWindow.baml
+C:\Users\Nemanja\Desktop\HciProjekat\HciProjekat\obj\Debug\PrikazEtiketa.baml
+C:\Users\Nemanja\Desktop\HciProjekat\HciProjekat\obj\Debug\PrikazTipaSpomenika.baml
+C:\Users\Nemanja\Desktop\HciProjekat\HciProjekat\obj\Debug\TableExample.baml
+C:\Users\Nemanja\Desktop\HciProjekat\HciProjekat\obj\Debug\HciProjekat.g.resources
+C:\Users\Nemanja\Desktop\HciProjekat\HciProjekat\obj\Debug\HciProjekat.Properties.Resources.resources
+C:\Users\Nemanja\Desktop\HciProjekat\HciProjekat\obj\Debug\HciProjekat.csproj.GenerateResource.cache
+C:\Users\Nemanja\Desktop\HciProjekat\HciProjekat\obj\Debug\HciProjekat.csproj.CoreCompileInputs.cache
+C:\Users\Nemanja\Desktop\HciProjekat\HciProjekat\obj\Debug\HciProjekat.exe
+C:\Users\Nemanja\Desktop\HciProjekat\HciProjekat\obj\Debug\HciProjekat.pdb
+C:\Users\Nemanja\Desktop\HciProjekat\HciProjekat\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Nemanja\Desktop\HciProjekat\HciProjekat\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Nemanja\Desktop\HciProjekat\HciProjekat\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Nemanja\Desktop\HciProjekat\HciProjekat\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Nemanja\Desktop\HciProjekat\HciProjekat\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Nemanja\Desktop\HciProjekat\HciProjekat\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nemanja\Desktop\HciProjekat\HciProjekat\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nemanja\Desktop\HciProjekat\HciProjekat\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nemanja\Desktop\HciProjekat\HciProjekat\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nemanja\Desktop\HciProjekat\HciProjekat\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nemanja\Desktop\HciProjekat\HciProjekat\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nemanja\Desktop\HciProjekat\HciProjekat\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nemanja\Desktop\HciProjekat\HciProjekat\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nemanja\Desktop\HciProjekat\HciProjekat\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nemanja\Desktop\HciProjekat\HciProjekat\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nemanja\Desktop\HciProjekat\HciProjekat\obj\Debug\HciProjekat.csproj.CopyComplete
+C:\Users\Lenovo E540\Desktop\HciProjekat\HciProjekat\bin\Debug\HciProjekat.exe.config
+C:\Users\Lenovo E540\Desktop\HciProjekat\HciProjekat\bin\Debug\HciProjekat.exe
+C:\Users\Lenovo E540\Desktop\HciProjekat\HciProjekat\bin\Debug\HciProjekat.pdb
+C:\Users\Lenovo E540\Desktop\HciProjekat\HciProjekat\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Lenovo E540\Desktop\HciProjekat\HciProjekat\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Lenovo E540\Desktop\HciProjekat\HciProjekat\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Lenovo E540\Desktop\HciProjekat\HciProjekat\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Lenovo E540\Desktop\HciProjekat\HciProjekat\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Lenovo E540\Desktop\HciProjekat\HciProjekat\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Lenovo E540\Desktop\HciProjekat\HciProjekat\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Lenovo E540\Desktop\HciProjekat\HciProjekat\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Lenovo E540\Desktop\HciProjekat\HciProjekat\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Lenovo E540\Desktop\HciProjekat\HciProjekat\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Lenovo E540\Desktop\HciProjekat\HciProjekat\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Lenovo E540\Desktop\HciProjekat\HciProjekat\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Lenovo E540\Desktop\HciProjekat\HciProjekat\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Lenovo E540\Desktop\HciProjekat\HciProjekat\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Lenovo E540\Desktop\HciProjekat\HciProjekat\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Lenovo E540\Desktop\HciProjekat\HciProjekat\obj\Debug\HciProjekat.csprojAssemblyReference.cache
+C:\Users\Lenovo E540\Desktop\HciProjekat\HciProjekat\obj\Debug\DodavanjeEtiketa.g.cs
+C:\Users\Lenovo E540\Desktop\HciProjekat\HciProjekat\obj\Debug\DodavanjeSpomenika.g.cs
+C:\Users\Lenovo E540\Desktop\HciProjekat\HciProjekat\obj\Debug\DodavanjeTipaSpomenika.g.cs
+C:\Users\Lenovo E540\Desktop\HciProjekat\HciProjekat\obj\Debug\MainWindow.g.cs
+C:\Users\Lenovo E540\Desktop\HciProjekat\HciProjekat\obj\Debug\PrikazEtiketa.g.cs
+C:\Users\Lenovo E540\Desktop\HciProjekat\HciProjekat\obj\Debug\PrikazTipaSpomenika.g.cs
+C:\Users\Lenovo E540\Desktop\HciProjekat\HciProjekat\obj\Debug\TableExample.g.cs
+C:\Users\Lenovo E540\Desktop\HciProjekat\HciProjekat\obj\Debug\App.g.cs
+C:\Users\Lenovo E540\Desktop\HciProjekat\HciProjekat\obj\Debug\HciProjekat_MarkupCompile.cache
+C:\Users\Lenovo E540\Desktop\HciProjekat\HciProjekat\obj\Debug\HciProjekat_MarkupCompile.lref
+C:\Users\Lenovo E540\Desktop\HciProjekat\HciProjekat\obj\Debug\DodavanjeEtiketa.baml
+C:\Users\Lenovo E540\Desktop\HciProjekat\HciProjekat\obj\Debug\DodavanjeSpomenika.baml
+C:\Users\Lenovo E540\Desktop\HciProjekat\HciProjekat\obj\Debug\DodavanjeTipaSpomenika.baml
+C:\Users\Lenovo E540\Desktop\HciProjekat\HciProjekat\obj\Debug\MainWindow.baml
+C:\Users\Lenovo E540\Desktop\HciProjekat\HciProjekat\obj\Debug\PrikazEtiketa.baml
+C:\Users\Lenovo E540\Desktop\HciProjekat\HciProjekat\obj\Debug\PrikazTipaSpomenika.baml
+C:\Users\Lenovo E540\Desktop\HciProjekat\HciProjekat\obj\Debug\TableExample.baml
+C:\Users\Lenovo E540\Desktop\HciProjekat\HciProjekat\obj\Debug\HciProjekat.g.resources
+C:\Users\Lenovo E540\Desktop\HciProjekat\HciProjekat\obj\Debug\HciProjekat.Properties.Resources.resources
+C:\Users\Lenovo E540\Desktop\HciProjekat\HciProjekat\obj\Debug\HciProjekat.csproj.GenerateResource.cache
+C:\Users\Lenovo E540\Desktop\HciProjekat\HciProjekat\obj\Debug\HciProjekat.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo E540\Desktop\HciProjekat\HciProjekat\obj\Debug\HciProjekat.csproj.CopyComplete
+C:\Users\Lenovo E540\Desktop\HciProjekat\HciProjekat\obj\Debug\HciProjekat.exe
+C:\Users\Lenovo E540\Desktop\HciProjekat\HciProjekat\obj\Debug\HciProjekat.pdb
+C:\Users\Lenovo E540\Desktop\HciProjekat\HciProjekat\obj\Debug\TipSpomenikaIzmena.g.cs
+C:\Users\Lenovo E540\Desktop\HciProjekat\HciProjekat\obj\Debug\TipSpomenikaIzmena.baml
+C:\Users\Lenovo E540\Desktop\HciProjekat\HciProjekat\obj\Debug\IzmenaSpomenika.g.cs
+C:\Users\Lenovo E540\Desktop\HciProjekat\HciProjekat\obj\Debug\IzmenaSpomenika.baml
+C:\Users\Lenovo E540\Desktop\HciProjekat\HciProjekat\obj\Debug\IzmenaEtikete.g.cs
+C:\Users\Lenovo E540\Desktop\HciProjekat\HciProjekat\obj\Debug\IzmenaEtikete.baml
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\bin\Debug\HciProjekat.exe.config
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\bin\Debug\HciProjekat.exe
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\bin\Debug\HciProjekat.pdb
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\obj\Debug\HciProjekat.csprojAssemblyReference.cache
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\obj\Debug\DodavanjeEtiketa.g.cs
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\obj\Debug\DodavanjeSpomenika.g.cs
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\obj\Debug\DodavanjeTipaSpomenika.g.cs
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\obj\Debug\IzmenaEtikete.g.cs
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\obj\Debug\IzmenaSpomenika.g.cs
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\obj\Debug\MainWindow.g.cs
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\obj\Debug\PrikazEtiketa.g.cs
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\obj\Debug\PrikazTipaSpomenika.g.cs
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\obj\Debug\TableExample.g.cs
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\obj\Debug\TipSpomenikaIzmena.g.cs
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\obj\Debug\App.g.cs
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\obj\Debug\HciProjekat_MarkupCompile.cache
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\obj\Debug\HciProjekat_MarkupCompile.lref
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\obj\Debug\DodavanjeEtiketa.baml
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\obj\Debug\DodavanjeSpomenika.baml
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\obj\Debug\DodavanjeTipaSpomenika.baml
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\obj\Debug\IzmenaEtikete.baml
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\obj\Debug\IzmenaSpomenika.baml
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\obj\Debug\MainWindow.baml
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\obj\Debug\PrikazEtiketa.baml
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\obj\Debug\PrikazTipaSpomenika.baml
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\obj\Debug\TableExample.baml
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\obj\Debug\TipSpomenikaIzmena.baml
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\obj\Debug\HciProjekat.g.resources
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\obj\Debug\HciProjekat.Properties.Resources.resources
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\obj\Debug\HciProjekat.csproj.GenerateResource.cache
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\obj\Debug\HciProjekat.csproj.CoreCompileInputs.cache
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\obj\Debug\HciProjekat.csproj.CopyComplete
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\obj\Debug\HciProjekat.exe
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\obj\Debug\HciProjekat.pdb
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\obj\Debug\GeneratedInternalTypeHelper.g.cs
+J:\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\bin\Debug\HciProjekat.exe.config
+J:\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\bin\Debug\HciProjekat.exe
+J:\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\bin\Debug\HciProjekat.pdb
+J:\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\bin\Debug\Xceed.Wpf.AvalonDock.dll
+J:\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+J:\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+J:\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+J:\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\bin\Debug\Xceed.Wpf.Toolkit.dll
+J:\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+J:\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+J:\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+J:\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+J:\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+J:\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+J:\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+J:\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+J:\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+J:\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+J:\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\obj\Debug\HciProjekat.csprojAssemblyReference.cache
+J:\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\obj\Debug\DodavanjeEtiketa.g.cs
+J:\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\obj\Debug\DodavanjeSpomenika.g.cs
+J:\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\obj\Debug\DodavanjeTipaSpomenika.g.cs
+J:\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\obj\Debug\IzmenaEtikete.g.cs
+J:\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\obj\Debug\IzmenaSpomenika.g.cs
+J:\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\obj\Debug\MainWindow.g.cs
+J:\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\obj\Debug\PrikazEtiketa.g.cs
+J:\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\obj\Debug\PrikazTipaSpomenika.g.cs
+J:\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\obj\Debug\TableExample.g.cs
+J:\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\obj\Debug\TipSpomenikaIzmena.g.cs
+J:\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\obj\Debug\App.g.cs
+J:\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\obj\Debug\GeneratedInternalTypeHelper.g.cs
+J:\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\obj\Debug\HciProjekat_MarkupCompile.cache
+J:\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\obj\Debug\HciProjekat_MarkupCompile.lref
+J:\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\obj\Debug\DodavanjeEtiketa.baml
+J:\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\obj\Debug\DodavanjeSpomenika.baml
+J:\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\obj\Debug\DodavanjeTipaSpomenika.baml
+J:\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\obj\Debug\IzmenaEtikete.baml
+J:\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\obj\Debug\IzmenaSpomenika.baml
+J:\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\obj\Debug\MainWindow.baml
+J:\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\obj\Debug\PrikazEtiketa.baml
+J:\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\obj\Debug\PrikazTipaSpomenika.baml
+J:\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\obj\Debug\TableExample.baml
+J:\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\obj\Debug\TipSpomenikaIzmena.baml
+J:\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\obj\Debug\HciProjekat.g.resources
+J:\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\obj\Debug\HciProjekat.Properties.Resources.resources
+J:\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\obj\Debug\HciProjekat.csproj.GenerateResource.cache
+J:\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\obj\Debug\HciProjekat.csproj.CoreCompileInputs.cache
+J:\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\obj\Debug\HciProjekat.csproj.CopyComplete
+J:\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\obj\Debug\HciProjekat.exe
+J:\HCIPROJEKATPRAVI\HciProjekat\HciProjekat\obj\Debug\HciProjekat.pdb
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI - Copy\HciProjekat\HciProjekat\bin\Debug\HciProjekat.exe.config
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI - Copy\HciProjekat\HciProjekat\bin\Debug\HciProjekat.exe
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI - Copy\HciProjekat\HciProjekat\bin\Debug\HciProjekat.pdb
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI - Copy\HciProjekat\HciProjekat\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI - Copy\HciProjekat\HciProjekat\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI - Copy\HciProjekat\HciProjekat\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI - Copy\HciProjekat\HciProjekat\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI - Copy\HciProjekat\HciProjekat\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI - Copy\HciProjekat\HciProjekat\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI - Copy\HciProjekat\HciProjekat\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI - Copy\HciProjekat\HciProjekat\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI - Copy\HciProjekat\HciProjekat\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI - Copy\HciProjekat\HciProjekat\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI - Copy\HciProjekat\HciProjekat\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI - Copy\HciProjekat\HciProjekat\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI - Copy\HciProjekat\HciProjekat\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI - Copy\HciProjekat\HciProjekat\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI - Copy\HciProjekat\HciProjekat\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI - Copy\HciProjekat\HciProjekat\obj\Debug\HciProjekat.csprojAssemblyReference.cache
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI - Copy\HciProjekat\HciProjekat\obj\Debug\DodavanjeEtiketa.g.cs
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI - Copy\HciProjekat\HciProjekat\obj\Debug\DodavanjeSpomenika.g.cs
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI - Copy\HciProjekat\HciProjekat\obj\Debug\DodavanjeTipaSpomenika.g.cs
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI - Copy\HciProjekat\HciProjekat\obj\Debug\IzmenaEtikete.g.cs
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI - Copy\HciProjekat\HciProjekat\obj\Debug\IzmenaSpomenika.g.cs
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI - Copy\HciProjekat\HciProjekat\obj\Debug\MainWindow.g.cs
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI - Copy\HciProjekat\HciProjekat\obj\Debug\PrikazEtiketa.g.cs
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI - Copy\HciProjekat\HciProjekat\obj\Debug\PrikazTipaSpomenika.g.cs
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI - Copy\HciProjekat\HciProjekat\obj\Debug\TableExample.g.cs
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI - Copy\HciProjekat\HciProjekat\obj\Debug\TipSpomenikaIzmena.g.cs
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI - Copy\HciProjekat\HciProjekat\obj\Debug\App.g.cs
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI - Copy\HciProjekat\HciProjekat\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI - Copy\HciProjekat\HciProjekat\obj\Debug\HciProjekat_MarkupCompile.cache
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI - Copy\HciProjekat\HciProjekat\obj\Debug\HciProjekat_MarkupCompile.lref
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI - Copy\HciProjekat\HciProjekat\obj\Debug\DodavanjeEtiketa.baml
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI - Copy\HciProjekat\HciProjekat\obj\Debug\DodavanjeSpomenika.baml
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI - Copy\HciProjekat\HciProjekat\obj\Debug\DodavanjeTipaSpomenika.baml
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI - Copy\HciProjekat\HciProjekat\obj\Debug\IzmenaEtikete.baml
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI - Copy\HciProjekat\HciProjekat\obj\Debug\IzmenaSpomenika.baml
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI - Copy\HciProjekat\HciProjekat\obj\Debug\MainWindow.baml
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI - Copy\HciProjekat\HciProjekat\obj\Debug\PrikazEtiketa.baml
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI - Copy\HciProjekat\HciProjekat\obj\Debug\PrikazTipaSpomenika.baml
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI - Copy\HciProjekat\HciProjekat\obj\Debug\TableExample.baml
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI - Copy\HciProjekat\HciProjekat\obj\Debug\TipSpomenikaIzmena.baml
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI - Copy\HciProjekat\HciProjekat\obj\Debug\HciProjekat.g.resources
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI - Copy\HciProjekat\HciProjekat\obj\Debug\HciProjekat.Properties.Resources.resources
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI - Copy\HciProjekat\HciProjekat\obj\Debug\HciProjekat.csproj.GenerateResource.cache
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI - Copy\HciProjekat\HciProjekat\obj\Debug\HciProjekat.csproj.CoreCompileInputs.cache
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI - Copy\HciProjekat\HciProjekat\obj\Debug\HciProjekat.csproj.CopyComplete
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI - Copy\HciProjekat\HciProjekat\obj\Debug\HciProjekat.exe
+C:\Users\Nemanja\Desktop\HCIPROJEKATPRAVI - Copy\HciProjekat\HciProjekat\obj\Debug\HciProjekat.pdb
+C:\Users\Nemanja\Desktop\HCI PROJEKAT SA DRAG AND DROP\HciProjekat\HciProjekat\bin\Debug\HciProjekat.exe.config
+C:\Users\Nemanja\Desktop\HCI PROJEKAT SA DRAG AND DROP\HciProjekat\HciProjekat\bin\Debug\HciProjekat.exe
+C:\Users\Nemanja\Desktop\HCI PROJEKAT SA DRAG AND DROP\HciProjekat\HciProjekat\bin\Debug\HciProjekat.pdb
+C:\Users\Nemanja\Desktop\HCI PROJEKAT SA DRAG AND DROP\HciProjekat\HciProjekat\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Nemanja\Desktop\HCI PROJEKAT SA DRAG AND DROP\HciProjekat\HciProjekat\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Nemanja\Desktop\HCI PROJEKAT SA DRAG AND DROP\HciProjekat\HciProjekat\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Nemanja\Desktop\HCI PROJEKAT SA DRAG AND DROP\HciProjekat\HciProjekat\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Nemanja\Desktop\HCI PROJEKAT SA DRAG AND DROP\HciProjekat\HciProjekat\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Nemanja\Desktop\HCI PROJEKAT SA DRAG AND DROP\HciProjekat\HciProjekat\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nemanja\Desktop\HCI PROJEKAT SA DRAG AND DROP\HciProjekat\HciProjekat\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nemanja\Desktop\HCI PROJEKAT SA DRAG AND DROP\HciProjekat\HciProjekat\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nemanja\Desktop\HCI PROJEKAT SA DRAG AND DROP\HciProjekat\HciProjekat\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nemanja\Desktop\HCI PROJEKAT SA DRAG AND DROP\HciProjekat\HciProjekat\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nemanja\Desktop\HCI PROJEKAT SA DRAG AND DROP\HciProjekat\HciProjekat\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nemanja\Desktop\HCI PROJEKAT SA DRAG AND DROP\HciProjekat\HciProjekat\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nemanja\Desktop\HCI PROJEKAT SA DRAG AND DROP\HciProjekat\HciProjekat\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nemanja\Desktop\HCI PROJEKAT SA DRAG AND DROP\HciProjekat\HciProjekat\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nemanja\Desktop\HCI PROJEKAT SA DRAG AND DROP\HciProjekat\HciProjekat\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nemanja\Desktop\HCI PROJEKAT SA DRAG AND DROP\HciProjekat\HciProjekat\obj\Debug\HciProjekat.csprojAssemblyReference.cache
+C:\Users\Nemanja\Desktop\HCI PROJEKAT SA DRAG AND DROP\HciProjekat\HciProjekat\obj\Debug\DodavanjeEtiketa.g.cs
+C:\Users\Nemanja\Desktop\HCI PROJEKAT SA DRAG AND DROP\HciProjekat\HciProjekat\obj\Debug\DodavanjeSpomenika.g.cs
+C:\Users\Nemanja\Desktop\HCI PROJEKAT SA DRAG AND DROP\HciProjekat\HciProjekat\obj\Debug\DodavanjeTipaSpomenika.g.cs
+C:\Users\Nemanja\Desktop\HCI PROJEKAT SA DRAG AND DROP\HciProjekat\HciProjekat\obj\Debug\IzmenaEtikete.g.cs
+C:\Users\Nemanja\Desktop\HCI PROJEKAT SA DRAG AND DROP\HciProjekat\HciProjekat\obj\Debug\IzmenaSpomenika.g.cs
+C:\Users\Nemanja\Desktop\HCI PROJEKAT SA DRAG AND DROP\HciProjekat\HciProjekat\obj\Debug\MainWindow.g.cs
+C:\Users\Nemanja\Desktop\HCI PROJEKAT SA DRAG AND DROP\HciProjekat\HciProjekat\obj\Debug\PrikazEtiketa.g.cs
+C:\Users\Nemanja\Desktop\HCI PROJEKAT SA DRAG AND DROP\HciProjekat\HciProjekat\obj\Debug\PrikazTipaSpomenika.g.cs
+C:\Users\Nemanja\Desktop\HCI PROJEKAT SA DRAG AND DROP\HciProjekat\HciProjekat\obj\Debug\TableExample.g.cs
+C:\Users\Nemanja\Desktop\HCI PROJEKAT SA DRAG AND DROP\HciProjekat\HciProjekat\obj\Debug\TipSpomenikaIzmena.g.cs
+C:\Users\Nemanja\Desktop\HCI PROJEKAT SA DRAG AND DROP\HciProjekat\HciProjekat\obj\Debug\App.g.cs
+C:\Users\Nemanja\Desktop\HCI PROJEKAT SA DRAG AND DROP\HciProjekat\HciProjekat\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Nemanja\Desktop\HCI PROJEKAT SA DRAG AND DROP\HciProjekat\HciProjekat\obj\Debug\HciProjekat_MarkupCompile.cache
+C:\Users\Nemanja\Desktop\HCI PROJEKAT SA DRAG AND DROP\HciProjekat\HciProjekat\obj\Debug\HciProjekat_MarkupCompile.lref
+C:\Users\Nemanja\Desktop\HCI PROJEKAT SA DRAG AND DROP\HciProjekat\HciProjekat\obj\Debug\DodavanjeEtiketa.baml
+C:\Users\Nemanja\Desktop\HCI PROJEKAT SA DRAG AND DROP\HciProjekat\HciProjekat\obj\Debug\DodavanjeSpomenika.baml
+C:\Users\Nemanja\Desktop\HCI PROJEKAT SA DRAG AND DROP\HciProjekat\HciProjekat\obj\Debug\DodavanjeTipaSpomenika.baml
+C:\Users\Nemanja\Desktop\HCI PROJEKAT SA DRAG AND DROP\HciProjekat\HciProjekat\obj\Debug\IzmenaEtikete.baml
+C:\Users\Nemanja\Desktop\HCI PROJEKAT SA DRAG AND DROP\HciProjekat\HciProjekat\obj\Debug\IzmenaSpomenika.baml
+C:\Users\Nemanja\Desktop\HCI PROJEKAT SA DRAG AND DROP\HciProjekat\HciProjekat\obj\Debug\MainWindow.baml
+C:\Users\Nemanja\Desktop\HCI PROJEKAT SA DRAG AND DROP\HciProjekat\HciProjekat\obj\Debug\PrikazEtiketa.baml
+C:\Users\Nemanja\Desktop\HCI PROJEKAT SA DRAG AND DROP\HciProjekat\HciProjekat\obj\Debug\PrikazTipaSpomenika.baml
+C:\Users\Nemanja\Desktop\HCI PROJEKAT SA DRAG AND DROP\HciProjekat\HciProjekat\obj\Debug\TableExample.baml
+C:\Users\Nemanja\Desktop\HCI PROJEKAT SA DRAG AND DROP\HciProjekat\HciProjekat\obj\Debug\TipSpomenikaIzmena.baml
+C:\Users\Nemanja\Desktop\HCI PROJEKAT SA DRAG AND DROP\HciProjekat\HciProjekat\obj\Debug\HciProjekat.g.resources
+C:\Users\Nemanja\Desktop\HCI PROJEKAT SA DRAG AND DROP\HciProjekat\HciProjekat\obj\Debug\HciProjekat.Properties.Resources.resources
+C:\Users\Nemanja\Desktop\HCI PROJEKAT SA DRAG AND DROP\HciProjekat\HciProjekat\obj\Debug\HciProjekat.csproj.GenerateResource.cache
+C:\Users\Nemanja\Desktop\HCI PROJEKAT SA DRAG AND DROP\HciProjekat\HciProjekat\obj\Debug\HciProjekat.csproj.CoreCompileInputs.cache
+C:\Users\Nemanja\Desktop\HCI PROJEKAT SA DRAG AND DROP\HciProjekat\HciProjekat\obj\Debug\HciProjekat.csproj.CopyComplete
+C:\Users\Nemanja\Desktop\HCI PROJEKAT SA DRAG AND DROP\HciProjekat\HciProjekat\obj\Debug\HciProjekat.exe
+C:\Users\Nemanja\Desktop\HCI PROJEKAT SA DRAG AND DROP\HciProjekat\HciProjekat\obj\Debug\HciProjekat.pdb
+C:\Users\Nemanja\Desktop\HCI PROJEKAT SA DRAG AND DROP\HciProjekat\HciProjekat\obj\Debug\Login.g.cs
+C:\Users\Nemanja\Desktop\HCI PROJEKAT SA DRAG AND DROP\HciProjekat\HciProjekat\obj\Debug\Login.baml
+C:\Users\Nemanja\Desktop\HCI PROJEKAT SA DRAG AND DROP\HciProjekat\HciProjekat\obj\Debug\Registracija.g.cs
+C:\Users\Nemanja\Desktop\HCI PROJEKAT SA DRAG AND DROP\HciProjekat\HciProjekat\obj\Debug\Registracija.baml
+J:\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\HciProjekat.exe.config
+J:\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\HciProjekat.exe
+J:\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\HciProjekat.pdb
+J:\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\Xceed.Wpf.AvalonDock.dll
+J:\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+J:\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+J:\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+J:\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\Xceed.Wpf.Toolkit.dll
+J:\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+J:\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+J:\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+J:\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+J:\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+J:\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+J:\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+J:\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+J:\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+J:\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+J:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\HciProjekat.csprojAssemblyReference.cache
+J:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\DodavanjeEtiketa.g.cs
+J:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\DodavanjeSpomenika.g.cs
+J:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\DodavanjeTipaSpomenika.g.cs
+J:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\IzmenaEtikete.g.cs
+J:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\IzmenaSpomenika.g.cs
+J:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\Login.g.cs
+J:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\MainWindow.g.cs
+J:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\PrikazEtiketa.g.cs
+J:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\PrikazTipaSpomenika.g.cs
+J:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\Registracija.g.cs
+J:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\TableExample.g.cs
+J:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\TipSpomenikaIzmena.g.cs
+J:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\App.g.cs
+J:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\GeneratedInternalTypeHelper.g.cs
+J:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\HciProjekat_MarkupCompile.cache
+J:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\HciProjekat_MarkupCompile.lref
+J:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\DodavanjeEtiketa.baml
+J:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\DodavanjeSpomenika.baml
+J:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\DodavanjeTipaSpomenika.baml
+J:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\IzmenaEtikete.baml
+J:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\IzmenaSpomenika.baml
+J:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\Login.baml
+J:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\MainWindow.baml
+J:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\PrikazEtiketa.baml
+J:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\PrikazTipaSpomenika.baml
+J:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\Registracija.baml
+J:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\TableExample.baml
+J:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\TipSpomenikaIzmena.baml
+J:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\HciProjekat.g.resources
+J:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\HciProjekat.Properties.Resources.resources
+J:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\HciProjekat.csproj.GenerateResource.cache
+J:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\HciProjekat.csproj.CoreCompileInputs.cache
+J:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\HciProjekat.csproj.CopyComplete
+J:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\HciProjekat.exe
+J:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\HciProjekat.pdb
+C:\Users\ra227-2016\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\HciProjekat.exe.config
+C:\Users\ra227-2016\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\HciProjekat.exe
+C:\Users\ra227-2016\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\HciProjekat.pdb
+C:\Users\ra227-2016\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\ra227-2016\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\ra227-2016\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\ra227-2016\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\ra227-2016\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\ra227-2016\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ra227-2016\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ra227-2016\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ra227-2016\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ra227-2016\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ra227-2016\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ra227-2016\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ra227-2016\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ra227-2016\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ra227-2016\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ra227-2016\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\HciProjekat.csprojResolveAssemblyReference.cache
+C:\Users\ra227-2016\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\DodavanjeEtiketa.g.cs
+C:\Users\ra227-2016\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\DodavanjeSpomenika.g.cs
+C:\Users\ra227-2016\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\DodavanjeTipaSpomenika.g.cs
+C:\Users\ra227-2016\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\IzmenaEtikete.g.cs
+C:\Users\ra227-2016\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\IzmenaSpomenika.g.cs
+C:\Users\ra227-2016\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\Login.g.cs
+C:\Users\ra227-2016\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\MainWindow.g.cs
+C:\Users\ra227-2016\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\PrikazEtiketa.g.cs
+C:\Users\ra227-2016\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\PrikazTipaSpomenika.g.cs
+C:\Users\ra227-2016\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\Registracija.g.cs
+C:\Users\ra227-2016\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\TableExample.g.cs
+C:\Users\ra227-2016\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\TipSpomenikaIzmena.g.cs
+C:\Users\ra227-2016\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\App.g.cs
+C:\Users\ra227-2016\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ra227-2016\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\HciProjekat_MarkupCompile.cache
+C:\Users\ra227-2016\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\HciProjekat_MarkupCompile.lref
+C:\Users\ra227-2016\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\DodavanjeEtiketa.baml
+C:\Users\ra227-2016\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\DodavanjeSpomenika.baml
+C:\Users\ra227-2016\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\DodavanjeTipaSpomenika.baml
+C:\Users\ra227-2016\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\IzmenaEtikete.baml
+C:\Users\ra227-2016\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\IzmenaSpomenika.baml
+C:\Users\ra227-2016\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\Login.baml
+C:\Users\ra227-2016\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\MainWindow.baml
+C:\Users\ra227-2016\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\PrikazEtiketa.baml
+C:\Users\ra227-2016\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\PrikazTipaSpomenika.baml
+C:\Users\ra227-2016\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\Registracija.baml
+C:\Users\ra227-2016\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\TableExample.baml
+C:\Users\ra227-2016\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\TipSpomenikaIzmena.baml
+C:\Users\ra227-2016\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\HciProjekat.g.resources
+C:\Users\ra227-2016\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\HciProjekat.Properties.Resources.resources
+C:\Users\ra227-2016\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\HciProjekat.csproj.GenerateResource.Cache
+C:\Users\ra227-2016\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\HciProjekat.csproj.CoreCompileInputs.cache
+C:\Users\ra227-2016\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\HciProjekat.exe
+C:\Users\ra227-2016\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\HciProjekat.pdb
+E:\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\HciProjekat.exe.config
+E:\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\HciProjekat.exe
+E:\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\HciProjekat.pdb
+E:\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\Xceed.Wpf.AvalonDock.dll
+E:\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+E:\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+E:\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+E:\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\Xceed.Wpf.Toolkit.dll
+E:\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+E:\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+E:\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+E:\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+E:\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+E:\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+E:\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+E:\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+E:\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+E:\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+E:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\HciProjekat.csprojResolveAssemblyReference.cache
+E:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\DodavanjeEtiketa.g.cs
+E:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\DodavanjeSpomenika.g.cs
+E:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\DodavanjeTipaSpomenika.g.cs
+E:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\IzmenaEtikete.g.cs
+E:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\IzmenaSpomenika.g.cs
+E:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\Login.g.cs
+E:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\MainWindow.g.cs
+E:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\PrikazEtiketa.g.cs
+E:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\PrikazTipaSpomenika.g.cs
+E:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\Registracija.g.cs
+E:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\TableExample.g.cs
+E:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\TipSpomenikaIzmena.g.cs
+E:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\App.g.cs
+E:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\HciProjekat_MarkupCompile.cache
+E:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\HciProjekat_MarkupCompile.lref
+E:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\DodavanjeEtiketa.baml
+E:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\DodavanjeSpomenika.baml
+E:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\DodavanjeTipaSpomenika.baml
+E:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\IzmenaEtikete.baml
+E:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\IzmenaSpomenika.baml
+E:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\Login.baml
+E:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\MainWindow.baml
+E:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\PrikazEtiketa.baml
+E:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\PrikazTipaSpomenika.baml
+E:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\Registracija.baml
+E:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\TableExample.baml
+E:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\TipSpomenikaIzmena.baml
+E:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\HciProjekat.g.resources
+E:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\HciProjekat.Properties.Resources.resources
+E:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\HciProjekat.csproj.GenerateResource.Cache
+E:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\HciProjekat.csproj.CoreCompileInputs.cache
+E:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\HciProjekat.exe
+E:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\HciProjekat.pdb
+G:\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\HciProjekat.exe.config
+G:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\HciProjekat.exe
+G:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\HciProjekat.pdb
+G:\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\HciProjekat.exe
+G:\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\HciProjekat.pdb
+G:\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\Xceed.Wpf.AvalonDock.dll
+G:\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+G:\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+G:\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+G:\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\Xceed.Wpf.Toolkit.dll
+G:\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+G:\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+G:\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+G:\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+G:\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+G:\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+G:\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+G:\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+G:\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+G:\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+G:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\HciProjekat.csprojResolveAssemblyReference.cache
+G:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\DodavanjeEtiketa.g.cs
+G:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\DodavanjeSpomenika.g.cs
+G:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\DodavanjeTipaSpomenika.g.cs
+G:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\IzmenaEtikete.g.cs
+G:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\IzmenaSpomenika.g.cs
+G:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\Login.g.cs
+G:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\MainWindow.g.cs
+G:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\PrikazEtiketa.g.cs
+G:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\PrikazTipaSpomenika.g.cs
+G:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\Registracija.g.cs
+G:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\TableExample.g.cs
+G:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\TipSpomenikaIzmena.g.cs
+G:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\App.g.cs
+G:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\HciProjekat_MarkupCompile.cache
+G:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\HciProjekat_MarkupCompile.lref
+G:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\DodavanjeEtiketa.baml
+G:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\DodavanjeSpomenika.baml
+G:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\DodavanjeTipaSpomenika.baml
+G:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\IzmenaEtikete.baml
+G:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\IzmenaSpomenika.baml
+G:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\Login.baml
+G:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\MainWindow.baml
+G:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\PrikazEtiketa.baml
+G:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\PrikazTipaSpomenika.baml
+G:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\Registracija.baml
+G:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\TableExample.baml
+G:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\TipSpomenikaIzmena.baml
+G:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\HciProjekat.g.resources
+G:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\HciProjekat.Properties.Resources.resources
+G:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\HciProjekat.csproj.GenerateResource.Cache
+D:\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\HciProjekat.exe.config
+D:\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\HciProjekat.exe
+D:\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\HciProjekat.pdb
+D:\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\HciProjekat.csprojAssemblyReference.cache
+D:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\DodavanjeEtiketa.g.cs
+D:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\DodavanjeSpomenika.g.cs
+D:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\DodavanjeTipaSpomenika.g.cs
+D:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\IzmenaEtikete.g.cs
+D:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\IzmenaSpomenika.g.cs
+D:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\Login.g.cs
+D:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\MainWindow.g.cs
+D:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\PrikazEtiketa.g.cs
+D:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\PrikazTipaSpomenika.g.cs
+D:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\Registracija.g.cs
+D:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\TableExample.g.cs
+D:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\TipSpomenikaIzmena.g.cs
+D:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\App.g.cs
+D:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\HciProjekat_MarkupCompile.cache
+D:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\HciProjekat_MarkupCompile.lref
+D:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\DodavanjeEtiketa.baml
+D:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\DodavanjeSpomenika.baml
+D:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\DodavanjeTipaSpomenika.baml
+D:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\IzmenaEtikete.baml
+D:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\IzmenaSpomenika.baml
+D:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\Login.baml
+D:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\MainWindow.baml
+D:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\PrikazEtiketa.baml
+D:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\PrikazTipaSpomenika.baml
+D:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\Registracija.baml
+D:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\TableExample.baml
+D:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\TipSpomenikaIzmena.baml
+D:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\HciProjekat.g.resources
+D:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\HciProjekat.Properties.Resources.resources
+D:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\HciProjekat.csproj.GenerateResource.cache
+D:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\HciProjekat.csproj.CoreCompileInputs.cache
+D:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\HciProjekat.csproj.CopyComplete
+D:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\HciProjekat.exe
+D:\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\HciProjekat.pdb
+C:\Users\Nemanja\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\HciProjekat.exe.config
+C:\Users\Nemanja\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\HciProjekat.exe
+C:\Users\Nemanja\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\HciProjekat.pdb
+C:\Users\Nemanja\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Nemanja\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Nemanja\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Nemanja\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Nemanja\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Nemanja\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nemanja\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nemanja\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nemanja\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nemanja\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nemanja\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nemanja\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nemanja\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nemanja\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nemanja\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Nemanja\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\HciProjekat.csprojAssemblyReference.cache
+C:\Users\Nemanja\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\DodavanjeEtiketa.g.cs
+C:\Users\Nemanja\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\DodavanjeSpomenika.g.cs
+C:\Users\Nemanja\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\DodavanjeTipaSpomenika.g.cs
+C:\Users\Nemanja\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\IzmenaEtikete.g.cs
+C:\Users\Nemanja\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\IzmenaSpomenika.g.cs
+C:\Users\Nemanja\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\Login.g.cs
+C:\Users\Nemanja\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\MainWindow.g.cs
+C:\Users\Nemanja\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\PrikazEtiketa.g.cs
+C:\Users\Nemanja\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\PrikazTipaSpomenika.g.cs
+C:\Users\Nemanja\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\Registracija.g.cs
+C:\Users\Nemanja\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\TableExample.g.cs
+C:\Users\Nemanja\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\TipSpomenikaIzmena.g.cs
+C:\Users\Nemanja\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\App.g.cs
+C:\Users\Nemanja\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Nemanja\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\HciProjekat_MarkupCompile.cache
+C:\Users\Nemanja\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\HciProjekat_MarkupCompile.lref
+C:\Users\Nemanja\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\DodavanjeEtiketa.baml
+C:\Users\Nemanja\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\DodavanjeSpomenika.baml
+C:\Users\Nemanja\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\DodavanjeTipaSpomenika.baml
+C:\Users\Nemanja\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\IzmenaEtikete.baml
+C:\Users\Nemanja\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\IzmenaSpomenika.baml
+C:\Users\Nemanja\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\Login.baml
+C:\Users\Nemanja\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\MainWindow.baml
+C:\Users\Nemanja\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\PrikazEtiketa.baml
+C:\Users\Nemanja\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\PrikazTipaSpomenika.baml
+C:\Users\Nemanja\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\Registracija.baml
+C:\Users\Nemanja\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\TableExample.baml
+C:\Users\Nemanja\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\TipSpomenikaIzmena.baml
+C:\Users\Nemanja\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\HciProjekat.g.resources
+C:\Users\Nemanja\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\HciProjekat.Properties.Resources.resources
+C:\Users\Nemanja\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\HciProjekat.csproj.GenerateResource.cache
+C:\Users\Nemanja\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\HciProjekat.csproj.CoreCompileInputs.cache
+C:\Users\Nemanja\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\HciProjekat.csproj.CopyComplete
+C:\Users\Nemanja\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\HciProjekat.exe
+C:\Users\Nemanja\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\HciProjekat.pdb
+C:\Users\Nemanja\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\Pomoc.g.cs
+C:\Users\Nemanja\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\Pomoc.baml
+C:\Users\Nemanja\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\PretragaTip.g.cs
+C:\Users\Nemanja\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\PretragaTip.baml
+C:\Users\Nemanja\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\PretragaEtiketa.g.cs
+C:\Users\Nemanja\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\PretragaEtiketa.baml
+C:\Users\Nemanja\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\PretragaSpomenik.g.cs
+C:\Users\Nemanja\Desktop\HCI_PROJEKAT\HciProjekat\HciProjekat\obj\Debug\PretragaSpomenik.baml

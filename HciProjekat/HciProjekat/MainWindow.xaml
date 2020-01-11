@@ -1,0 +1,155 @@
+﻿<Window x:Class="HciProjekat.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+
+        xmlns:local="clr-namespace:HciProjekat"
+        xmlns:self ="clr-namespace:PrimerCas4.Table"
+        
+        mc:Ignorable="d"
+        Icon="Mapa_sveta.jpg"
+        
+        
+        Title="VOĐENJE EVIDENCIJE O MAPI SVETSKIH KULTURNIH SPOMENIKA" Height="430" Width="750" Background="BlanchedAlmond" ResizeMode="NoResize" Closing="FormClosing">
+
+    <Window.CommandBindings>
+        <CommandBinding Command="local:Precice.DodajSpomenik" CanExecute="DodajSpomenik_Can_Execute" Executed="DodajSpomenik_Executed"/>
+        <CommandBinding Command="local:Precice.DodajTip" CanExecute="DodajTip_Can_Execute" Executed="DodajTip_Executed"/>
+        <CommandBinding Command="local:Precice.PrikazTip" CanExecute="PrikazTip_Can_Execute" Executed="PrikazTip_Executed"/>
+        <CommandBinding Command="local:Precice.DodajEtiketu" CanExecute="DodajEtiketu_Can_Execute" Executed="DodajEtiketu_Executed"/>
+        <CommandBinding Command="local:Precice.PrikazEtiketu" CanExecute="PrikazEtiketu_Can_Execute" Executed="PrikazEtiketu_Executed"/>
+        <CommandBinding Command="local:Precice.Sacuvaj" CanExecute="Sacuvaj_Can_Execute" Executed="Sacuvaj_Executed"/>
+        <CommandBinding Command="local:Precice.Pomoc" CanExecute="Pomoc_Can_Execute" Executed="Pomoc_Executed"/>
+        <CommandBinding Command="local:Precice.Login" CanExecute="Login_Can_Execute" Executed="Login_Executed"/>
+        <CommandBinding Command="local:Precice.Registracija" CanExecute="Registracija_Can_Execute" Executed="Registracija_Executed"/>
+        
+    </Window.CommandBindings>
+    
+    <DockPanel>
+        <Menu DockPanel.Dock ="Top">
+            <Menu.ItemsPanel>
+                <!--Podkontrola koja određuje kako se item-i prikazuju.-->
+                <ItemsPanelTemplate>
+                    <!-- Specificiramo ne šta je u kontroli nego template koji je formira-->
+                    <DockPanel HorizontalAlignment="Stretch"></DockPanel>
+                    <!-- Prikazujemo preko Dock Panela koji preuzme sav prostor -->
+                </ItemsPanelTemplate>
+            </Menu.ItemsPanel>
+            <MenuItem Header="Spomenik"  Name="nameSpomenik" FontWeight="Black" Background="Maroon" Foreground="White">
+                <MenuItem Header="Prikaz"  Name="prikaz" Click="click_prikaz_spomenika" FontWeight="Black" Background="Maroon" Foreground="White">
+
+                </MenuItem>
+                <Separator></Separator>
+                <MenuItem Header="Dodavanje"  Command="local:Precice.DodajSpomenik" InputGestureText="Ctrl+D"  FontWeight="Black" Background="Maroon" Foreground="White"></MenuItem>
+                <Separator></Separator>
+
+            </MenuItem>
+            <MenuItem Header="Tip Spomenika" FontWeight="Black" Background="Maroon" Foreground="White">
+                <MenuItem Header="_Prikaz" Command="local:Precice.PrikazTip" InputGestureText="Ctrl+P"  FontWeight="Black" Background="Maroon" Foreground="White" />
+                <Separator></Separator>
+                <MenuItem Header="_Dodavanje" Command="local:Precice.DodajTip" InputGestureText="Ctrl+T"   FontWeight="Black" Background="Maroon" Foreground="White"></MenuItem>
+                <Separator></Separator>
+
+
+            </MenuItem>
+            <MenuItem Header="Etiketa" FontWeight="Black" Background="Maroon" Foreground="White">
+                <MenuItem Header="_Prikaz" Command="local:Precice.PrikazEtiketu" InputGestureText="Ctrl+O"  FontWeight="Black" Background="Maroon" Foreground="White"></MenuItem>
+                <Separator></Separator>
+                <MenuItem Header="_Dodavanje" Command="local:Precice.DodajEtiketu" InputGestureText="Ctrl+E"  FontWeight="Black" Background="Maroon" Foreground="White"></MenuItem>
+                <Separator></Separator>
+
+            </MenuItem>
+            <MenuItem Header="Sacuvaj" Command="local:Precice.Sacuvaj" InputGestureText="Ctrl+S"  FontWeight="Black" Background="Maroon" Foreground="White"/>
+            <MenuItem Header="Pomoc" Command="local:Precice.Pomoc" InputGestureText="Ctrl+H"  FontWeight="Black" Background="Maroon" Foreground="White"/>
+
+
+
+
+            <MenuItem>
+
+            </MenuItem>
+        </Menu>
+
+        
+        
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="25*"/>
+                <ColumnDefinition Width="9*"/>
+                <ColumnDefinition Width="82*"/>
+                <ColumnDefinition Width="13*"/>
+                <ColumnDefinition Width="25*"/>
+                <ColumnDefinition Width="11*"/>
+                <ColumnDefinition Width="64*"/>
+                <ColumnDefinition Width="24*"/>
+                <ColumnDefinition Width="52*"/>
+                <ColumnDefinition Width="439*"/>
+            </Grid.ColumnDefinitions>
+
+
+            <ListBox HorizontalAlignment="Left" Height="293" Margin="25,30,0,0" VerticalAlignment="Top" SelectionChanged="NaMapi_SelectionChanged_1" Width="445" x:Name="NaMapi" SelectionMode="Single" ItemsSource="{Binding naMapi}"  AllowDrop="True" DragEnter="NaMapi_DragEnter" Drop="NaMapi_Drop" PreviewMouseLeftButtonDown="Tree_PreviewMouseLeftButtonDown" PreviewMouseMove="NaMapi_PreviewMouseMove" MouseRightButtonUp="NaMapi_MouseRightButtonUp" Grid.Column="8" Grid.ColumnSpan="2">
+                <ListBox.Resources>
+                    <ContextMenu x:Key="dusan">
+                        <MenuItem Header="Izbrisi" Click="MenuItem_Click"></MenuItem>
+                    </ContextMenu>
+                </ListBox.Resources>
+                <ListBox.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="#FF137264" Offset="0"/>
+                        <GradientStop Color="#FF83C0F3" Offset="1"/>
+                    </LinearGradientBrush>
+                </ListBox.Background>
+                <ListBox.Template>
+                    <ControlTemplate TargetType="{x:Type ListBox}">
+                        <Canvas x:Name="CanvasPanel" IsItemsHost="True">
+                            <Canvas.Background>
+                                <ImageBrush ImageSource="Mapa.jpg"/>
+                            </Canvas.Background>
+                        </Canvas>
+                    </ControlTemplate>
+                </ListBox.Template>
+                <ListBox.ItemContainerStyle>
+                    <Style TargetType="{x:Type ListBoxItem}">
+                        <Setter Property="Canvas.Left" Value="{Binding Point.X}"/>
+                        <Setter Property="Canvas.Top" Value="{Binding Point.Y}"/>
+                        <Setter Property="ContextMenu" Value="{StaticResource dusan}"></Setter>
+                    </Style>
+                </ListBox.ItemContainerStyle>
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel HorizontalAlignment="Left" Orientation="Horizontal">
+                            <Grid>
+                                <Image Width="30" Height="30" Source="{Binding Ikonica}" VerticalAlignment="Center" />
+                                <TextBlock Text="{Binding Oznaka}" Foreground="White" />
+                            </Grid>
+                        </StackPanel>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+
+
+            <TreeView HorizontalAlignment="Left" Height="293" Margin="10,30,0,0" VerticalAlignment="Top" Width="231" x:Name="xTree" ItemsSource="{Binding TipoviTree}" PreviewMouseMove="Tree_PreviewMouseMove" PreviewMouseLeftButtonDown="Tree_PreviewMouseLeftButtonDown" AllowDrop="True" DragEnter="Tree_DragEnter" Drop="Tree_Drop" TreeViewItem.Selected="TreeViewItem_OnItemSelected" DragOver="Tree_DragOver" Background="{x:Null}" BorderBrush="White" Grid.ColumnSpan="8">
+                <TreeView.Resources>
+                    <HierarchicalDataTemplate DataType="{x:Type self:Model3}" ItemsSource="{Binding SpomeniciUnutarTipova}">
+                        <StackPanel Orientation="Horizontal">
+                            <Image Height="30" Width="30" Source="{Binding Ikonica}" Margin="0,0,5,0" />
+                            <TextBlock Text="{Binding Oznaka}" />
+                        </StackPanel>
+                    </HierarchicalDataTemplate>
+                    <DataTemplate DataType="{x:Type self:Model1}">
+                        <StackPanel Orientation="Horizontal">
+                            <Image Height="30" Width="30" Source="{Binding Ikonica}" Margin="0,0,5,0" />
+                            <TextBlock Text="{Binding Oznaka}" />
+                        </StackPanel>
+                    </DataTemplate>
+                </TreeView.Resources>
+            </TreeView>
+            <Button Name ="login" Command="local:Precice.Login"  Content="Prijavljivanje" FontWeight="Black" Background="Maroon" Foreground="White" Grid.Column="9" HorizontalAlignment="Left" Height="25" Margin="165,0,0,0" VerticalAlignment="Top" Width="91"  Loaded="form1_load" KeyDown="form_kd"/>
+            <Button Content="Registrovanje" Command="local:Precice.Registracija" Grid.Column="9" FontWeight="Black" Background="Maroon" Foreground="White" HorizontalAlignment="Left" Height="25" Margin="284,0,0,0" VerticalAlignment="Top" Width="91" />
+            <TextBlock Grid.ColumnSpan="10" Name="statusBar" Text="{Binding Message,RelativeSource={RelativeSource Mode=FindAncestor,AncestorType=Window}}"  Foreground="Red" FontSize="30" FontWeight="Black" HorizontalAlignment="Left" Height="39" Margin="10,334,0,0"   Background="Beige" VerticalAlignment="Top" Width="713" />
+
+
+        </Grid>
+    </DockPanel>
+</Window>

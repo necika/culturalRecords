@@ -1,0 +1,21 @@
+﻿<Window x:Class="HciProjekat.Login"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HciProjekat"
+        mc:Ignorable="d"
+        Title="Prijavljivanje" Height="300" Width="400" Background="BlanchedAlmond">
+    <Grid>
+        <TextBlock FontSize="20" FontWeight="Black" HorizontalAlignment="Left" Height="29" Margin="10,23,0,0" TextWrapping="Wrap" Text="Ime" VerticalAlignment="Top" Width="211"/>
+        <TextBox FontSize="20" HorizontalAlignment="Left" Height="33" Margin="9,66,0,0" TextWrapping="Wrap" Name="txtIme" Text="" VerticalAlignment="Top" Width="238"/>
+        <TextBlock FontSize="20" FontWeight="Black" HorizontalAlignment="Left" Height="29" Margin="10,104,0,0" TextWrapping="Wrap" Text="Lozinka" VerticalAlignment="Top" Width="211"/>
+        <PasswordBox FontSize="20" HorizontalAlignment="Left" Height="33" Margin="9,133,0,0"  Name="txtLozinka"  VerticalAlignment="Top" Width="237"/>
+        <Button Content="Prijavi se" HorizontalAlignment="Left" Height="38" Margin="46,196,0,0" VerticalAlignment="Top" Width="156" Click="Button_Click" RenderTransformOrigin="0.55,0.618"/>
+        <TextBlock FontSize="20" HorizontalAlignment="Left" Height="33" Margin="259,66,0,0" TextWrapping="Wrap" Name="lblIme" Text="" VerticalAlignment="Top" Width="111"/>
+        <TextBlock FontSize="20" HorizontalAlignment="Left" Height="32" Margin="259,133,0,0" TextWrapping="Wrap" Name="lblLozinka" Text="" VerticalAlignment="Top" Width="112"/>
+        <TextBlock HorizontalAlignment="Left" FontWeight="Black" MouseLeftButtonUp="TextBlock_MouseLeftButtonUp" Height="20" Margin="290,10,0,0" TextWrapping="Wrap" Text="Nemate nalog?" VerticalAlignment="Top" Width="92"/>
+        <Image HorizontalAlignment="Left" Name="myImage2" Height="59" Margin="258,175,0,0" VerticalAlignment="Top" Width="124"/>
+        <TextBlock Foreground="Green" FontWeight="Bold" HorizontalAlignment="Left" Height="29" Name="txtUspesno" Margin="233,234,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="159"/>
+    </Grid>
+</Window>

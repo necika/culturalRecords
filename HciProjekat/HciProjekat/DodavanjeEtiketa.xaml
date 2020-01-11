@@ -1,0 +1,29 @@
+﻿<Window x:Class="HciProjekat.DodavanjeEtiketa"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HciProjekat"
+        mc:Ignorable="d"
+        Icon="Mapa_sveta.jpg"
+        xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit"
+        Title="DodavanjeEtiketa" Height="263.794" Width="528.303" ResizeMode="NoResize" Background="BlanchedAlmond">
+    <Grid Margin="0,0,0,13">
+        <TextBlock HorizontalAlignment="Left" Height="18" Margin="10,21,0,0" TextWrapping="Wrap" Text="Oznaka : " VerticalAlignment="Top" Width="82"/>
+        <TextBlock HorizontalAlignment="Left" Height="18" Margin="10,63,0,0" TextWrapping="Wrap" Text="Boja :" VerticalAlignment="Top" Width="66"/>
+        <TextBlock HorizontalAlignment="Left" Height="18" Margin="10,42,0,0" TextWrapping="Wrap" Text="Opis :" VerticalAlignment="Top" Width="108"/>
+
+        <TextBox HorizontalAlignment="Left" Name="textBoxOznaka" Height="18" Margin="180,21,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="132"/>
+        <xctk:ColorPicker HorizontalAlignment="Left" Name="textBoxBoja" SelectedColorChanged="cp_SelectedColorChanged_1" DisplayColorAndName="True" Height="18" Margin="180,63,0,0" VerticalAlignment="Top" Width="132"/>
+        <TextBox HorizontalAlignment="Left" Name="textBoxOpis" Height="18" Margin="180,42,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="132"/>
+
+        <Button Content="Dodaj Etiketu" HorizontalAlignment="Left" Height="40" Margin="376,116,0,0" VerticalAlignment="Top" Width="120" Click="click_dodaj_etiketu"/>
+        <Button Content="Prikaz Etiketa"  HorizontalAlignment="Left" Height="40" Margin="376,172,0,0" VerticalAlignment="Top" Width="120" Click="click_prikaz_spomenika"/>
+
+
+        <TextBlock Name="validacijaOznaka" HorizontalAlignment="Left" Height="16" Margin="317,21,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="195"/>
+        <TextBlock  Name ="validacijaOpis" HorizontalAlignment="Left" Height="16" Margin="316,44,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="196"/>
+        <TextBlock Name ="validacijaBoja" HorizontalAlignment="Left" Height="18" Margin="317,63,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="195"/>
+        <TextBlock Name="statusEtiketa" HorizontalAlignment="Left" Height="33" Margin="10,189,0,0" TextWrapping="Wrap" Text="" FontSize="20" FontWeight="Bold" Foreground="Green" VerticalAlignment="Top" Width="227"/>
+    </Grid>
+</Window>

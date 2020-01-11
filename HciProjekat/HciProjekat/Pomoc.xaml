@@ -1,0 +1,18 @@
+﻿<Window x:Class="HciProjekat.Pomoc"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HciProjekat"
+        mc:Ignorable="d"
+        Icon="Mapa_sveta.jpg"
+        Title="Pomoc" Height="394.197" Width="724.257"  ResizeMode="NoResize" Background="BlanchedAlmond">
+    <Grid>
+        <Border BorderBrush="Black" BorderThickness="3">
+            <WebBrowser Name="webPomoc"  Margin="1,1,1,1"/>
+        </Border>
+
+
+
+    </Grid>
+</Window>

@@ -1,0 +1,10 @@
+1 1 1 file:///C:/Users/Nemanja/Desktop/Mapa_sveta.jpg
+2 2 2 file:///C:/Users/Nemanja/Desktop/jpg.jpg
+3 3 3 file:///C:/Users/Nemanja/Documents/map.jpg
+
+1 1 #000
+2 2 #000
+3 3 #000
+
+1 1 1 5/13/2019 12:00:00 AM 1 1 True False True Paleolit Eksploatisan Nula-Etikata file:///C:/Users/Nemanja/Desktop/Mapa_sveta.jpg
+2 2 1 5/13/2019 12:00:00 AM 2 2 True False True Paleolit Eksploatisan Nula-Etikata file:///C:/Users/Nemanja/Desktop/jpg.jpg

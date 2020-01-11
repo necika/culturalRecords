@@ -1,0 +1,86 @@
+﻿<Window x:Class="HciProjekat.IzmenaSpomenika"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HciProjekat"
+        mc:Ignorable="d"
+        Icon="Mapa_sveta.jpg"
+        Title="Izmena datog spomenika" Height="430" Width="750"  ResizeMode="NoResize" Background="BlanchedAlmond" Closing="FormClosing">
+
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" Height="18" Margin="10,21,0,0" TextWrapping="Wrap" Text="Oznaka : " VerticalAlignment="Top" Width="82"/>
+        <TextBlock HorizontalAlignment="Left" Height="18" Margin="10,42,0,0" TextWrapping="Wrap" Text="Ime :" VerticalAlignment="Top" Width="66"/>
+        <TextBlock HorizontalAlignment="Left" Height="18" Margin="10,63,0,0" TextWrapping="Wrap" Text="Tip :" VerticalAlignment="Top" Width="108"/>
+        <TextBlock HorizontalAlignment="Left" Height="18" Margin="10,84,0,0" TextWrapping="Wrap" Text="Opis :" VerticalAlignment="Top" Width="108"/>
+        <TextBlock HorizontalAlignment="Left" Height="18" Margin="10,104,0,0" TextWrapping="Wrap" Text="Godisnji prihod" VerticalAlignment="Top" Width="82"/>
+        <TextBlock HorizontalAlignment="Left" Height="18" Margin="10,126,0,0" TextWrapping="Wrap" Text="Datum otkrivanja" VerticalAlignment="Top" Width="92"/>
+
+        <TextBox HorizontalAlignment="Left" Name="textBoxOznaka" Height="18" Margin="180,21,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="132"/>
+        <TextBox HorizontalAlignment="Left" Name="textBoxIme" Height="18" Margin="180,42,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="132"/>
+        <ComboBox HorizontalAlignment="Left" Loaded="TextBoxTip_Loaded" SelectionChanged="TextBoxTip_SelectionChanged"  Name="textBoxTip" Height="20" Margin="180,63,0,0" VerticalAlignment="Top" Width="132"/>
+
+
+        <TextBox HorizontalAlignment="Left" Name="textBoxOpis" Height="18" Margin="180,86,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="132"/>
+        <TextBox HorizontalAlignment="Left" Name="textBoxGodisnjiPrihod" Height="18" Margin="180,107,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="132"/>
+        <DatePicker HorizontalAlignment="Left" Name="textBoxDatumOtkrivanja" Height="25" Margin="180,128,0,0"  Text="" VerticalAlignment="Top" Width="132"/>
+
+        <CheckBox Name="Arheoloski_obradjen" Content="Arheoloski obradjen" HorizontalAlignment="Left" Height="15" Margin="10,149,0,0" VerticalAlignment="Top" Width="151" RenderTransformOrigin="0.5,0.5"></CheckBox>
+        <CheckBox Name="Pripada_UNESKO" Content="Pripada UNESKO" HorizontalAlignment="Left" Height="18" Margin="10,170,0,0" VerticalAlignment="Top" Width="130"/>
+        <CheckBox Name="Pripada_naseljenom_mjestu" Content="Pripada naseljenom mjestu" HorizontalAlignment="Left" Height="15" Margin="10,191,0,0" VerticalAlignment="Top" Width="164"/>
+
+        <TextBlock HorizontalAlignment="Left" Height="18" Margin="10,212,0,0" TextWrapping="Wrap" Text="Era porekla : " VerticalAlignment="Top" Width="82"/>
+        <ComboBox Name="comboEra" HorizontalAlignment="Left" Height="20" Margin="10,233,0,0" VerticalAlignment="Top" Width="108" >
+            <ComboBoxItem >Paleolit</ComboBoxItem>
+            <ComboBoxItem>Neolit</ComboBoxItem>
+            <ComboBoxItem>Stari-Vek</ComboBoxItem>
+            <ComboBoxItem>Srednji-Vek</ComboBoxItem>
+            <ComboBoxItem>Renesansa</ComboBoxItem>
+            <ComboBoxItem>Moderno-Doba</ComboBoxItem>
+
+        </ComboBox>
+
+        <TextBlock HorizontalAlignment="Left" Height="18" Margin="10,253,0,0" TextWrapping="Wrap" Text="Turisticki status : " VerticalAlignment="Top" Width="130"/>
+        <ComboBox Name="comboStatus" HorizontalAlignment="Left" Height="20" Margin="10,271,0,0" VerticalAlignment="Top" Width="108" >
+            <ComboBoxItem>Eksploatisan</ComboBoxItem>
+            <ComboBoxItem>Dostupan</ComboBoxItem>
+            <ComboBoxItem>Nedostupan</ComboBoxItem>
+        </ComboBox>
+
+        <TextBlock HorizontalAlignment="Left" Height="18" Margin="10,296,0,0" TextWrapping="Wrap" Text="Tagovani sa : " VerticalAlignment="Top" Width="130"/>
+
+        <TextBlock HorizontalAlignment="Left" Height="35" Margin="419,157,0,0" TextWrapping="Wrap" Text="Dodavanje ikonice :" VerticalAlignment="Top" Width="80"/>
+
+
+        <Button Content="Browse"  HorizontalAlignment="Left" Height="31" Margin="531,157,0,0" VerticalAlignment="Top" Width="86" Click="click_browse" RenderTransformOrigin="0.464,-0.701" />
+
+
+        <Image x:Name="myImage2" HorizontalAlignment="Stretch" VerticalAlignment="Bottom" RenderTransformOrigin="-0.733,1.837" Margin="305,0,305,21" Height="76" />
+
+
+
+        <Button Content="Izmeni Spomenik" HorizontalAlignment="Left" Height="40" Margin="596,293,0,0" VerticalAlignment="Top" Width="120" Click="click_izmeni_spomenik" RenderTransformOrigin="0.384,-0.174"/>
+        <Button Content="Prikaz Spomenika" HorizontalAlignment="Left" Height="40" Margin="596,349,0,0" VerticalAlignment="Top" Width="120" Click="click_prikaz_spomenika"/>
+
+        <TextBlock Name="validacijaOznaka"  HorizontalAlignment="Left" Height="18" Margin="325,21,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="201"/>
+        <TextBlock Name="validacijaIme" HorizontalAlignment="Left" Height="18" Margin="325,42,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="201"/>
+        <TextBlock Name="validacijaTip" HorizontalAlignment="Left" Height="20" Margin="325,63,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="201"/>
+        <TextBlock Name="validacijaOpis" HorizontalAlignment="Left" Height="16" Margin="326,88,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="200"/>
+        <TextBlock Name="validacijaGodisnjiPrihod" HorizontalAlignment="Left" Height="20" Margin="326,107,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="200"/>
+        <TextBlock Name="validacijaDatumOtkrivanja" HorizontalAlignment="Left" Height="21" Margin="326,132,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="200"/>
+        <TextBlock Name="validacijaEra" HorizontalAlignment="Left" Height="19" Margin="137,234,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="150"/>
+        <TextBlock Name="validacijaTuristickiStatus" HorizontalAlignment="Left" Height="19" Margin="139,272,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="148"/>
+        <TextBlock Name="validacijaTagovani" HorizontalAlignment="Left" Height="19" Margin="136,338,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="151"/>
+        <TextBlock Name="validacijaSlika" HorizontalAlignment="Left" Height="20" Margin="450,197,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="146"/>
+        <TextBlock FontWeight="Bold" FontSize="20" Foreground="Green" HorizontalAlignment="Left" Height="31" Margin="10,373,0,0" TextWrapping="Wrap" Text="" Name = "statusSpomenikIzmena" VerticalAlignment="Top" Width="250"/>
+
+        <ListBox HorizontalAlignment="Left" ItemsSource="{Binding Etikete}" Name="etiketaSelect" SelectionMode="Multiple" ScrollViewer.CanContentScroll="True" Height="87" Margin="10,314,0,0" VerticalAlignment="Top" Width="121">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <TextBlock Text="{Binding Oznaka}"></TextBlock>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+
+    </Grid>
+</Window>

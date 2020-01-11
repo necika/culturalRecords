@@ -1,0 +1,2 @@
+e e #FF7CFC00
+w w #FFE0FFFF
